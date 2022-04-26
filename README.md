@@ -2,6 +2,7 @@
 ## source code
 
 ### main activity.java
+```java
 package com.example.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -15,9 +16,9 @@ public class MainActivity extends AppCompatActivity{
         setContentView(R.layout.activity_main);
     }
 }
-
+```
 ### activity_main.xml
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -42,5 +43,6 @@ public class MainActivity extends AppCompatActivity{
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+```
 ### output
 ![Screenshot (5)](https://user-images.githubusercontent.com/75235334/165219375-081973ed-cf1b-4f3a-b321-988cb546cc9b.png)
