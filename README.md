@@ -69,4 +69,4 @@ public class MainActivity extends AppCompatActivity{
 ![Screenshot (5)](https://user-images.githubusercontent.com/75235334/165219375-081973ed-cf1b-4f3a-b321-988cb546cc9b.png)
 
 ### result
-hus a Simple Android Application Welcome should be in Center Alignment, Font Color: blue,using Android Studio is developed and executed successfully.
+Thus a Simple Android Application Welcome should be in Center Alignment, Font Color: blue,using Android Studio is developed and executed successfully.
