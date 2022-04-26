@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity{
 }
 ```
 ### activity_main.xml
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
